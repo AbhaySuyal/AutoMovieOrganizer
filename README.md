@@ -38,13 +38,6 @@
 
 ---
 
-## Demo
-
-![AutoMovieOrganizer Demo](docs/demo.gif)
-
-> The script scans movies, fetches metadata, cleans filenames, and organizes them automatically.
-
----
 
 ## Requirements
 
