@@ -21,7 +21,6 @@
 - [Advanced Settings](#advanced-settings)  
 - [Troubleshooting](#troubleshooting)  
 - [Notes](#notes)  
-- [License](#license)  
 
 ---
 
